@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Abstract\ class\ Animal\r\n\r\n\ @author\ (Rachel\ Gantz)\r\n\ @version\ (30/05/2022)\r\n
+comment1.params=mammals\ carnivorous\ mood
+comment1.target=Animal(boolean,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ sayHello()
+comment3.params=a
+comment3.target=void\ sayHello(int)
+comment4.params=
+comment4.target=boolean\ isMammals()
+comment5.params=mammals
+comment5.target=void\ setMammals(boolean)
+comment6.params=
+comment6.target=boolean\ isCarnivorous()
+comment7.params=carnivorous
+comment7.target=void\ setCarnivorous(boolean)
+numComments=8

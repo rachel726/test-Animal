@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Frog
+comment1.params=mammals\ carnivorous\ mood
+comment1.target=Frog(boolean,\ boolean,\ int)
+comment2.params=mood
+comment2.target=void\ sayHello(int)
+comment3.params=
+comment3.target=boolean\ isMammals()
+comment4.params=mammals
+comment4.target=void\ setMammals(boolean)
+comment5.params=
+comment5.target=boolean\ isCarnivorous()
+comment6.params=carnivorous
+comment6.target=void\ setCarnivorous(boolean)
+comment7.params=
+comment7.target=int\ getNumberOfLegs()
+comment8.params=
+comment8.target=boolean\ hasGills()
+comment9.params=
+comment9.target=boolean\ hasLayEggs()
+numComments=10
